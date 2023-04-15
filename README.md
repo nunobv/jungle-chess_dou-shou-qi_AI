@@ -1,7 +1,5 @@
 # ![](jungle-py/assets/icon.png) Jungle Chess (Dou Shou Qi) ![](jungle-py/assets/icon.png)
-_University of Porto · Master In Data Science and Engineering · Artificial Intelligence Project_
 
-<br>
 
 Python app developed for tinkering with AI concepts using [_Dou Shou Qi (Jungle Chess)_](https://en.wikipedia.org/wiki/Jungle_(board_game)) as the playground. Implementing several search algorithms (**minimax**, **alpha-beta**, **pruning**) and developing custom **evaluation functions**.
 
